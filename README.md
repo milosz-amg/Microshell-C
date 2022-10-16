@@ -1,2 +1,2 @@
 # Microshell-C
-Projekt microshell w języku C, wykonany w ramach zajęć Systemy Operacyjne
+Microshell project in C language prepared for Operating Systems subject
